@@ -4,7 +4,7 @@ Developed by [Jiayi Chen](https://github.com/jia-yi-chen).
 
 This repository contains a MATLAB implementation of [StyLit](https://dl.acm.org/citation.cfm?id=2925948) by Jakub Fišer,et al.
 
-## Prerequisites
+## Requirements
 
 Matlab 2017b +
 
