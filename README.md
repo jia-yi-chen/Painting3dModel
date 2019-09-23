@@ -19,4 +19,4 @@ main_LPE.m
 ## Examples
 
 ### 
- ![image](https://github.com/jia-yi-chen/3dModel-to-2dArt-Dataset/blob/master/dataset_intro/4.jpg)
+ ![image](https://github.com/jia-yi-chen/Painting3dModel/blob/master/results/4.jpg)
