@@ -1,14 +1,3 @@
-% 
-% PatchMatch.m
-%
-% the Matlab code of PatchMatch algorithm
-% PatchMatch returns approximate nearest neighbor field (NNF).
-%
-% author: Ikuo Degawa <degawa@tkhm.elec.keio.ac.jp>
-%
-% 
-% Usage: [NNF, debug] = PatchMatch(targetImg, sourceImg, psz)
-% 
 % Inputs: 
 % - targetImg: An image (usually masked by NaN. NaN is lost domain)
 % - sourceImg: An image from which patches are extracted, same size as targetImg.
